@@ -1,0 +1,12 @@
+org/cloudbus/cloudsim/HostDynamicWorkload.java:			getVmScheduler().allocatePesForVm(vm, vm.getCurrentRequestedMips());
+org/cloudbus/cloudsim/Host.java:			if (!getVmScheduler().allocatePesForVm(vm, vm.getCurrentRequestedMips())) {
+org/cloudbus/cloudsim/Host.java:			getVmScheduler().allocatePesForVm(vm, vm.getCurrentRequestedMips());
+org/cloudbus/cloudsim/Host.java:		if (!getVmScheduler().allocatePesForVm(vm, vm.getCurrentRequestedMips())) {
+org/cloudbus/cloudsim/Host.java:	public boolean allocatePesForVm(Vm vm, List<Double> mipsShare) {
+org/cloudbus/cloudsim/Host.java:		return getVmScheduler().allocatePesForVm(vm, mipsShare);
+org/cloudbus/cloudsim/network/datacenter/NetworkVmAllocationPolicy.java:		if (!host.allocatePesForVm(vm, vm.getCur
+org/cloudbus/cloudsim/network/datacenter/NetworkVmAllocationPolicy.java:			vm.getHost().allocatePesForVm(vm, allocatedMipsForVm);
+org/fog/entities/FogDevice.java:				getHost().getVmScheduler().allocatePesForVm(vm, new ArrayList<Double>() {
+org/fog/entities/FogDevice.java:				getHost().getVmScheduler().allocatePesForVm(vm, new ArrayList<Double>() {
+org/fog/entities/FogDevice.java:				getHost().getVmScheduler().deallocatePesForVm(operator);
+org/fog/entities/FogDevice.java:				getHost().getVmScheduler().allocatePesForVm(operator, new ArrayList<Double>() {

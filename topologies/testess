@@ -1,0 +1,90 @@
+0.3
+router : Energy Consumed = 0.0
+mobile-0 : Energy Consumed = 1235203.7435014225
+mobile-1 : Energy Consumed = 1409122.2261653962
+cloud : Energy Consumed = 1927427.0333808998
+Cost of execution in cloud = 6.49812497156475E7
+Total network usage = 6330.0
+
+
+
+0.7
+router : Energy Consumed = 0.0
+mobile-0 : Energy Consumed = 537390.7849282232
+mobile-1 : Energy Consumed = 551005.9873299095
+cloud : Energy Consumed = 1173561.1296319894
+Cost of execution in cloud = 1.4625213116608274E8
+Total network usage = 6490.0
+
+
+
+1.0
+router : Energy Consumed = 0.0
+mobile-0 : Energy Consumed = 20012.884591250328
+mobile-1 : Energy Consumed = 21769.704599594552
+cloud : Energy Consumed = 635730.0381651047
+Cost of execution in cloud = 2.2133891283541346E8
+Total network usage = 6466.666666666667
+
+
+
+
+
+
+mobile-0 : Energy Consumed = 259180.9113521222
+mobile-1 : Energy Consumed = 251748.40129874388
+cloud : Energy Consumed = 928422.625965713
+Cost of execution in cloud = 2.8796523934048176E9
+Total network usage = 7700.666666666667
+
+
+mobile-0 : Energy Consumed = 250153.02099158397
+mobile-1 : Energy Consumed = 250238.08443493472
+cloud : Energy Consumed = 909264.6017922728
+Cost of execution in cloud = 2.9228217112197094E9
+Total network usage = 7658.333333333333
+
+
+
+mobile-0 : Energy Consumed = 181500.76604753433
+mobile-1 : Energy Consumed = 187954.9485645588
+cloud : Energy Consumed = 886524.0358700773
+Cost of execution in cloud = 1.7855082770663917E9
+Total network usage = 2545.3333333333335
+
+
+
+
+
+
+mobile-0 : Energy Consumed = 260401.46978254855
+mobile-1 : Energy Consumed = 257721.81475459706
+cloud : Energy Consumed = 924746.7167194051
+Cost of execution in cloud = 2.8983975343834925E9
+Total network usage = 7725.333333333333
+
+
+
+mobile-0 : Energy Consumed = 254078.15482481342
+mobile-1 : Energy Consumed = 253686.76671256093
+cloud : Energy Consumed = 921242.0286239579
+Cost of execution in cloud = 2.9065307145930724E9
+Total network usage = 7672.666666666667
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

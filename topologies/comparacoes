@@ -1,0 +1,120 @@
+mobile-0 : Energy Consumed = 4.527598078042594E7
+mobile-1 : Energy Consumed = 4.528061768492646E7
+cloud : Energy Consumed = 0.0
+Cost of execution in cloud = 0.0
+Total network usage = 1297.2
+
+
+
+1 sensor:
+mobile-0 : Energy Consumed = 1.3958791558662776E7
+mobile-1 : Energy Consumed = 1.3927143797819288E7
+cloud : Energy Consumed = 2.2906925715772692E7
+Cost of execution in cloud = 2.462295946714109E9
+Total network usage = 2579.4
+
+
+3 sensores:
+mobile-0 : Energy Consumed = 3.592820762591008E7
+mobile-1 : Energy Consumed = 3.612578614860238E7
+cloud : Energy Consumed = 4.541478920255338E7
+Cost of execution in cloud = 4.9443263578024645E9
+Total network usage = 7766.3
+
+
+5 sensores:
+mobile-0 : Energy Consumed = 4.516270048125124E7
+mobile-1 : Energy Consumed = 4.5127136436497815E7
+cloud : Energy Consumed = 1.2606705768333731E7
+Cost of execution in cloud = 1.3235112650375142E9
+Total network usage = 12764.9
+
+
+
+7 sensores:
+mobile-0 : Energy Consumed = 0.0
+mobile-1 : Energy Consumed = 0.0
+cloud : Energy Consumed = 3.053311929921149E7
+Cost of execution in cloud = 3.3069843884825106E9
+Total network usage = 18055.8
+
+
+================================
+
+2 sensores:
+mobile-0 : Energy Consumed = 851990.771392759
+mobile-1 : Energy Consumed = 849457.1280204196
+cloud : Energy Consumed = 1676372.6210974907
+Cost of execution in cloud = 9.918116450642973E9
+Total network usage = 7769.1
+
+5 sensores:
+mobile-0 : Energy Consumed = 1070301.0582719073
+mobile-1 : Energy Consumed = 1069553.5095245296
+cloud : Energy Consumed = 870860.8715336276
+Cost of execution in cloud = 2.5397929155587893E9
+Total network usage = 12748.5
+
+
+7 sensores:
+mobile-0 : Energy Consumed = 0.0
+mobile-1 : Energy Consumed = 0.0
+cloud : Energy Consumed = 1316620.0807092912
+Cost of execution in cloud = 6.731575708886905E9
+Total network usage = 18100.8
+
+
+
+
+
+vr_game
+
+d1 : Energy Consumed = 0.0
+d2 : Energy Consumed = 1037840.8566143068
+m-0-1 : Energy Consumed = 990314.5209256816
+proxy-server : Energy Consumed = 0.0
+m-0-0 : Energy Consumed = 1072782.0012357158
+m-1-1 : Energy Consumed = 1064916.1993156807
+m-1-0 : Energy Consumed = 560707.1943243006
+cloud : Energy Consumed = 0.0
+Cost of execution in cloud = 0.0
+Total network usage = 1377.5
+
+
+
+
+
+default:
+m-0-0 : Energy Consumed = 991290.3857771126
+m-1-1 : Energy Consumed = 986794.7217742515
+m-1-0 : Energy Consumed = 1010725.1851171078
+cloud : Energy Consumed = 0.0
+Cost of execution in cloud = 0.0
+Total network usage = 0.0
+
+
+m-0-0 : Energy Consumed = 998550.1823713932
+m-1-1 : Energy Consumed = 1026806.2540728195
+m-1-0 : Energy Consumed = 982843.7265256805
+cloud : Energy Consumed = 0.0
+Cost of execution in cloud = 0.0
+Total network usage = 0.0
+
+
+
+
+
+default:
+mobile-0 : Energy Consumed = 82152.08928578816
+mobile-1 : Energy Consumed = 80981.77820083825
+cloud : Energy Consumed = 716143.934011096
+Cost of execution in cloud = 9.2761970217769E8
+Total network usage = 7478.0
+
+
+new:
+mobile-0 : Energy Consumed = 22724.01475753438
+mobile-1 : Energy Consumed = 42935.59999999998
+cloud : Energy Consumed = 619370.7011807695
+Cost of execution in cloud = 3060129.8530951138
+Total network usage = 11.0
