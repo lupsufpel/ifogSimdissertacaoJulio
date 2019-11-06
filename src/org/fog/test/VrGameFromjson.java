@@ -51,7 +51,7 @@ public class VrGameFromjson {
 			 * Creating the physical topology from specified JSON file
 			 */
 			PhysicalTopology physicalTopology = JsonToTopology.getPhysicalTopology(broker.getId(), appId,
-					"topologies/vrGamePriority");
+					"topologies/vrgameCom4");
 
 			Controller controller = new Controller("master-controller", physicalTopology.getFogDevices(),
 					physicalTopology.getSensors(), physicalTopology.getActuators());

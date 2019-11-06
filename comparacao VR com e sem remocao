@@ -1,0 +1,74 @@
+vr com remoção (todos os pares)
+
+=========================================
+[EEG, client, concentration_calculator, client, DISPLAY] ---> 132.69813826296163
+=========================================
+TUPLE CPU EXECUTION DELAY
+=========================================
+PLAYER_GAME_STATE ---> 110.42380257066664
+EEG ---> 10.0
+CONCENTRATION ---> 4.012543985897701
+_SENSOR ---> 81.12663851096569
+GLOBAL_GAME_STATE ---> 3.0309686192358445
+=========================================
+d1 : Energy Consumed = 531835.6101285757
+d2 : Energy Consumed = 532909.0001285758
+m-0-1 : Energy Consumed = 278441.8129014151
+proxy-server : Energy Consumed = 0.0
+m-0-0 : Energy Consumed = 269281.5026413992
+m-1-1 : Energy Consumed = 289684.0397371296
+m-1-0 : Energy Consumed = 280471.9000742569
+cloud : Energy Consumed = 0.0
+Cost of execution in cloud = 0.0
+Total network usage = 3245.8
+
+
+
+
+ vr com remoção (3 eventos iguais por vez)
+[EEG, client, concentration_calculator, client, DISPLAY] ---> 149.3424699393265
+=========================================
+TUPLE CPU EXECUTION DELAY
+=========================================
+PLAYER_GAME_STATE ---> 2.9184726034510247
+EEG ---> 10.0
+CONCENTRATION ---> 3.898129886979974
+_SENSOR ---> 169.00549445389964
+GLOBAL_GAME_STATE ---> 2.084923692014287
+=========================================
+d1 : Energy Consumed = 533074.6088714271
+d2 : Energy Consumed = 532106.2577499956
+m-0-1 : Energy Consumed = 470479.7176800015
+proxy-server : Energy Consumed = 0.0
+m-0-0 : Energy Consumed = 462204.034121428
+m-1-1 : Energy Consumed = 458517.0928128587
+m-1-0 : Energy Consumed = 458895.9994828525
+cloud : Energy Consumed = 0.0
+Cost of execution in cloud = 0.0
+Total network usage = 3226.4
+
+
+vr sem remoção
+[EEG, client, concentration_calculator, client, DISPLAY] ---> 103.28218810968998
+=========================================
+TUPLE CPU EXECUTION DELAY
+=========================================
+PLAYER_GAME_STATE ---> 2.100000000000364
+EEG ---> 9.999999999999222
+CONCENTRATION ---> 0.13874267578157856
+_SENSOR ---> 109.30873565424518
+GLOBAL_GAME_STATE ---> 0.15988281238846058
+=========================================
+d1 : Energy Consumed = 536147.5710999919
+d2 : Energy Consumed = 536694.9999999923
+m-0-1 : Energy Consumed = 523824.9005585718
+proxy-server : Energy Consumed = 0.0
+m-0-0 : Energy Consumed = 523487.0893914257
+m-1-1 : Energy Consumed = 526722.7468757157
+m-1-0 : Energy Consumed = 526723.973607141
+cloud : Energy Consumed = 0.0
+Cost of execution in cloud = 0.0
+Total network usage = 3267.0
+
+
+

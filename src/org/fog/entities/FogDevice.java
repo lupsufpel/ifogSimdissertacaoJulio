@@ -283,9 +283,11 @@ public class FogDevice extends PowerDatacenter {
 	 * 
 	 * @param ev
 	 */
+
+	// ((rd.nextInt(4) == 0) && (limiar.get() < 50000) && ev.fuzzyScheduler < 0.2)
 	private void manageResources(SimEvent ev) {
 		Random rd = new Random();
-		if ((rd.nextInt(2) == 0) && (limiar.get() < 1000) && ev.fuzzyScheduler < 0.2) {
+		if ((ev.fuzzyScheduler < 0.1)) {
 			updateEnergyConsumption();
 		}
 		send(getId(), Config.RESOURCE_MGMT_INTERVAL, FogEvents.RESOURCE_MGMT);
@@ -752,16 +754,20 @@ public class FogDevice extends PowerDatacenter {
 
 		System.out.println(ev.fuzzyScheduler);
 		Random rd = new Random();
-
+		// System.out.println(rd.nextInt(500));
 // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+//((rd.nextInt(4) == 0) && (limiar.get() < 50000) && ev.fuzzyScheduler < 0.2)
+		if ((ev.fuzzyScheduler < 0.1)) {// adicionar alguma outra
 
-		if ((rd.nextInt(2) == 0) && (limiar.get() < 1000) && (ev.fuzzyScheduler < 0.2)) {// adicionar alguma outra
-																							// condição
+			// condição
+			// quanto maior o valor do random, mais o consumo diminui
+			// $$$$$$$$$$$$$$$$$$$$$$$$$############# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 			limiar.incrementAndGet();
 			updateAllocatedMips(moduleName);
 		}
 		processCloudletSubmit(ev, false);
-		if ((rd.nextInt(2) == 0) && (limiar.get() < 1000) && (ev.fuzzyScheduler < 0.2)) {
+		if ((ev.fuzzyScheduler < 0.1)) {// definir heurística de
+			// redução
 			limiar.incrementAndGet();
 			updateAllocatedMips(moduleName);
 		}
