@@ -283,16 +283,17 @@ public class FogDevice extends PowerDatacenter {
 	 * 
 	 * @param ev
 	 */
-
+//TODO
 	// ((rd.nextInt(4) == 0) && (limiar.get() < 50000) && ev.fuzzyScheduler < 0.2)
 	private void manageResources(SimEvent ev) {
 		Random rd = new Random();
-		if ((ev.fuzzyScheduler < 0.1)) {
+		if ((rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.4) {
 			updateEnergyConsumption();
 		}
 		send(getId(), Config.RESOURCE_MGMT_INTERVAL, FogEvents.RESOURCE_MGMT);
 	}
 
+	// ((rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.2)
 	/**
 	 * Updating the number of modules of an application module on this device
 	 * 
@@ -556,6 +557,12 @@ public class FogDevice extends PowerDatacenter {
 				+ (timeNow - lastUtilizationUpdateTime) * getHost().getPowerModel().getPower(lastUtilization);
 		setEnergyConsumption(newEnergyConsumption);
 
+		// TODO
+		// System.out.println((newEnergyConsumption));
+		// System.out.println((lastUtilizationUpdateTime));
+
+		// printar separado cada parametro
+
 		/*
 		 * if(getName().equals("d-0")){ System.out.println("------------------------");
 		 * System.out.println("Utilization = "+lastUtilization);
@@ -752,24 +759,31 @@ public class FogDevice extends PowerDatacenter {
 //MEU DEUSSSSS $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%$%$&$%&&%&%&
 		TimeKeeper.getInstance().tupleStartedExecution(tuple);
 
-		System.out.println(ev.fuzzyScheduler);
+		// System.out.println(ev.fuzzyScheduler);
 		Random rd = new Random();
-		// System.out.println(rd.nextInt(500));
+
+		// System.out.println(rd.nextInt(newEnergyConsumption));
 // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 //((rd.nextInt(4) == 0) && (limiar.get() < 50000) && ev.fuzzyScheduler < 0.2)
-		if ((ev.fuzzyScheduler < 0.1)) {// adicionar alguma outra
-
+		if ((rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.4) {// adicionar alguma outra
+			// ((rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.2)
+//TODO
 			// condição
 			// quanto maior o valor do random, mais o consumo diminui
 			// $$$$$$$$$$$$$$$$$$$$$$$$$############# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 			limiar.incrementAndGet();
 			updateAllocatedMips(moduleName);
 		}
+		// com 0.1 o custo da cloud zera, ou seja, inválido (talvez seja onde a
+		// comunicação é feita pra calcular o consumo)
+
 		processCloudletSubmit(ev, false);
-		if ((ev.fuzzyScheduler < 0.1)) {// definir heurística de
+		if ((rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.4) {// definir heurística de
 			// redução
 			limiar.incrementAndGet();
 			updateAllocatedMips(moduleName);
+			// ((rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.2)
+
 		}
 
 		/*
@@ -996,6 +1010,8 @@ public class FogDevice extends PowerDatacenter {
 
 	public void setEnergyConsumption(double energyConsumption) {
 		this.energyConsumption = energyConsumption;
+		// System.out.println((this.energyConsumption));
+
 	}
 
 	public Map<Integer, Double> getChildToLatencyMap() {
