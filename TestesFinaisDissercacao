@@ -1,0 +1,516 @@
+(rd.nextInt(2) == 0) && ev.fuzzyScheduler < 0.1):#################
+
+cloud : Energy Consumed = 294105.60000000003
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24921.929000000022
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 7858.666666666667
+
+
+cloud : Energy Consumed = 380951.99999999994
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24718.329000000027
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 13978.666666666666
+
+
+cloud : Energy Consumed = 327671.9999999999
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 25074.629000000023
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 9912.0
+
+
+cloud : Energy Consumed = 387345.5999999999
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24845.579000000023
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 8538.666666666666
+
+
+cloud : Energy Consumed = 394005.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24896.47900000003
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 11938.666666666666
+
+
+(rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.1):###############
+
+
+cloud : Energy Consumed = 347385.5999999999
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24667.429000000022
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 11258.666666666666
+
+
+cloud : Energy Consumed = 380685.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24641.97900000002
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 13298.666666666666
+
+
+cloud : Energy Consumed = 334065.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24834.890000000025
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 9898.666666666666
+
+
+cloud : Energy Consumed = 181684.80000000002
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24743.77900000002
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 7858.666666666667
+
+
+cloud : Energy Consumed = 387611.99999999994
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24682.190000000024
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 12618.666666666666
+
+
+(rd.nextInt(6) == 0) && ev.fuzzyScheduler < 0.1):############
+
+cloud : Energy Consumed = 327405.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24504.040000000023
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 9912.0
+
+
+cloud : Energy Consumed = 394005.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24540.179000000026
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 12618.666666666666
+
+
+cloud : Energy Consumed = 387345.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24591.079000000023
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 13978.666666666666
+
+
+cloud : Energy Consumed = 374025.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24580.390000000025
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 11938.666666666666
+
+
+cloud : Energy Consumed = 340725.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24591.079000000027
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 8538.666666666666
+
+
+(rd.nextInt(8) == 0) && ev.fuzzyScheduler < 0.1):############
+
+
+cloud : Energy Consumed = 387345.5999999999
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24616.529000000024
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 11258.666666666666
+
+
+cloud : Energy Consumed = 360705.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24529.490000000027
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 7178.666666666667
+
+
+cloud : Energy Consumed = 380685.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24605.840000000026
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 10578.666666666666
+
+
+cloud : Energy Consumed = 394005.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24453.140000000025
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 10578.666666666666
+
+
+cloud : Energy Consumed = 360705.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31223.16388999999
+m-0-0 : Energy Consumed = 24591.079000000023
+m-0-1 : Energy Consumed = 24402.240000000027
+m-0-2 : Energy Consumed = 24402.240000000027
+m-0-3 : Energy Consumed = 24402.240000000027
+Cost of execution in cloud = 0.0
+Total network usage = 11938.666666666666
+
+(rd.nextInt(2) == 0) && ev.fuzzyScheduler < 0.2):###############
+
+
+cloud : Energy Consumed = 414011.575
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31601.70405999999
+m-0-0 : Energy Consumed = 24977.91900000002
+m-0-1 : Energy Consumed = 25044.598000000024
+m-0-2 : Energy Consumed = 25176.429000000026
+m-0-3 : Energy Consumed = 25215.62200000002
+Cost of execution in cloud = 20431.60000000002
+Total network usage = 9898.666666666666
+
+
+cloud : Energy Consumed = 347840.96071428567
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31776.557179999985
+m-0-0 : Energy Consumed = 24993.69800000002
+m-0-1 : Energy Consumed = 25308.76900000002
+m-0-2 : Energy Consumed = 25212.568000000025
+m-0-3 : Energy Consumed = 25070.557000000023
+Cost of execution in cloud = 10087.600000000002
+Total network usage = 7858.666666666667
+
+
+cloud : Energy Consumed = 374215.19999999995
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31893.353599999988
+m-0-0 : Energy Consumed = 25023.729000000018
+m-0-1 : Energy Consumed = 25024.238000000023
+m-0-2 : Energy Consumed = 25074.629000000023
+m-0-3 : Energy Consumed = 25162.68600000002
+Cost of execution in cloud = 268.79999999999745
+Total network usage = 7178.666666666667
+
+
+cloud : Energy Consumed = 361325.91249999986
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31967.46126999999
+m-0-0 : Energy Consumed = 24952.469000000026
+m-0-1 : Energy Consumed = 25334.219000000026
+m-0-2 : Energy Consumed = 25132.146000000026
+m-0-3 : Energy Consumed = 25222.74800000002
+Cost of execution in cloud = 19385.799999999974
+Total network usage = 7192.0
+
+
+cloud : Energy Consumed = 327965.59999999986
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 32029.957599999987
+m-0-0 : Energy Consumed = 24947.888000000024
+m-0-1 : Energy Consumed = 25213.586000000025
+m-0-2 : Energy Consumed = 25082.264000000017
+m-0-3 : Energy Consumed = 25111.786000000022
+Cost of execution in cloud = 29119.999999999975
+Total network usage = 9898.666666666666
+
+
+(rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.2):############
+
+
+cloud : Energy Consumed = 335042.37857142853
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31639.95317999999
+m-0-0 : Energy Consumed = 24758.540000000023
+m-0-1 : Energy Consumed = 24673.537000000026
+m-0-2 : Energy Consumed = 24850.669000000024
+m-0-3 : Energy Consumed = 24809.440000000024
+Cost of execution in cloud = 1384.7999999999977
+Total network usage = 8538.666666666666
+
+
+cloud : Energy Consumed = 380685.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31924.966939999988
+m-0-0 : Energy Consumed = 24677.609000000022
+m-0-1 : Energy Consumed = 24861.358000000026
+m-0-2 : Energy Consumed = 24758.54000000003
+m-0-3 : Energy Consumed = 24850.669000000024
+Cost of execution in cloud = 0.0
+Total network usage = 11258.666666666666
+
+
+cloud : Energy Consumed = 394309.7096938775
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31587.70214999999
+m-0-0 : Energy Consumed = 24723.419000000027
+m-0-1 : Energy Consumed = 24871.538000000022
+m-0-2 : Energy Consumed = 24743.779000000024
+m-0-3 : Energy Consumed = 24591.079000000023
+Cost of execution in cloud = 431.14285714285705
+Total network usage = 12618.666666666666
+
+
+cloud : Energy Consumed = 414009.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31670.541989999987
+m-0-0 : Energy Consumed = 24605.840000000026
+m-0-1 : Energy Consumed = 24769.22900000002
+m-0-2 : Energy Consumed = 24881.71800000003
+m-0-3 : Energy Consumed = 24744.288000000022
+Cost of execution in cloud = 20428.799999999996
+Total network usage = 14658.666666666666
+
+
+cloud : Energy Consumed = 278688.84107142856
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31472.95478999999
+m-0-0 : Energy Consumed = 24825.219000000026
+m-0-1 : Energy Consumed = 24718.329000000027
+m-0-2 : Energy Consumed = 24809.440000000024
+m-0-3 : Energy Consumed = 24799.769000000026
+Cost of execution in cloud = 318.59999999999854
+Total network usage = 9898.666666666666
+
+
+(rd.nextInt(6) == 0) && ev.fuzzyScheduler < 0.2):###############
+
+
+cloud : Energy Consumed = 380685.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31639.95317999999
+m-0-0 : Energy Consumed = 24626.70900000002
+m-0-1 : Energy Consumed = 24580.390000000025
+m-0-2 : Energy Consumed = 24656.740000000023
+m-0-3 : Energy Consumed = 24667.429000000026
+Cost of execution in cloud = 0.0
+Total network usage = 11938.666666666666
+
+
+cloud : Energy Consumed = 208324.80000000002
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31524.18128999999
+m-0-0 : Energy Consumed = 24580.390000000025
+m-0-1 : Energy Consumed = 24605.840000000026
+m-0-2 : Energy Consumed = 24682.190000000024
+m-0-3 : Energy Consumed = 24769.229000000025
+Cost of execution in cloud = 0.0
+Total network usage = 5832.0
+
+
+cloud : Energy Consumed = 420140.00000000006
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31531.547419999988
+m-0-0 : Energy Consumed = 24667.429000000026
+m-0-1 : Energy Consumed = 24656.74000000002
+m-0-2 : Energy Consumed = 24641.979000000025
+m-0-3 : Energy Consumed = 24692.879000000023
+Cost of execution in cloud = 29120.0
+Total network usage = 10578.666666666666
+
+
+cloud : Energy Consumed = 334256.04642857134
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31661.809819999988
+m-0-0 : Energy Consumed = 24748.86900000002
+m-0-1 : Energy Consumed = 24656.740000000023
+m-0-2 : Energy Consumed = 24718.329000000023
+m-0-3 : Energy Consumed = 24779.918000000027
+Cost of execution in cloud = 270.0
+Total network usage = 6498.666666666667
+
+
+cloud : Energy Consumed = 380685.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31590.970159999986
+m-0-0 : Energy Consumed = 24540.179000000026
+m-0-1 : Energy Consumed = 24652.159000000025
+m-0-2 : Energy Consumed = 24662.84800000002
+m-0-3 : Energy Consumed = 24540.179000000026
+Cost of execution in cloud = 0.0
+Total network usage = 11938.666666666666
+
+
+(rd.nextInt(8) == 0) && ev.fuzzyScheduler < 0.2):############
+
+
+cloud : Energy Consumed = 334065.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31493.981319999988
+m-0-0 : Energy Consumed = 24494.369000000024
+m-0-1 : Energy Consumed = 24529.490000000023
+m-0-2 : Energy Consumed = 24605.840000000022
+m-0-3 : Energy Consumed = 24554.940000000024
+Cost of execution in cloud = 0.0
+Total network usage = 9218.666666666666
+
+
+cloud : Energy Consumed = 382539.2785714285
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31554.428589999985
+m-0-0 : Energy Consumed = 24570.719000000023
+m-0-1 : Energy Consumed = 24499.459000000024
+m-0-2 : Energy Consumed = 24616.529000000028
+m-0-3 : Energy Consumed = 24597.696000000018
+Cost of execution in cloud = 2628.0
+Total network usage = 8538.666666666666
+
+
+cloud : Energy Consumed = 367365.6
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31639.953179999993
+m-0-0 : Energy Consumed = 24504.040000000026
+m-0-1 : Energy Consumed = 24554.94000000002
+m-0-2 : Energy Consumed = 24631.290000000023
+m-0-3 : Energy Consumed = 24554.940000000028
+Cost of execution in cloud = 0.0
+Total network usage = 11938.666666666666
+
+
+cloud : Energy Consumed = 343143.5642857142
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31651.07591999999
+m-0-0 : Energy Consumed = 24605.840000000026
+m-0-1 : Energy Consumed = 24616.529000000024
+m-0-2 : Energy Consumed = 24707.640000000025
+m-0-3 : Energy Consumed = 24743.779000000028
+Cost of execution in cloud = 3428.0000000000005
+Total network usage = 7178.666666666667
+
+
+cloud : Energy Consumed = 347385.5999999999
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31472.954789999992
+m-0-0 : Energy Consumed = 24554.940000000024
+m-0-1 : Energy Consumed = 24529.490000000023
+m-0-2 : Energy Consumed = 24605.84000000003
+m-0-3 : Energy Consumed = 24621.619000000024
+Cost of execution in cloud = 0.0
+Total network usage = 8538.666666666666
+
+
+(rd.nextInt(2) == 0) && ev.fuzzyScheduler < 0.3):############
+
+
+cloud : Energy Consumed = 415236.74005102046
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31898.134739999987
+m-0-0 : Energy Consumed = 25075.138000000024
+m-0-1 : Energy Consumed = 25102.624000000025
+m-0-2 : Energy Consumed = 25059.86800000002
+m-0-3 : Energy Consumed = 25187.627000000022
+Cost of execution in cloud = 22168.54285714288
+Total network usage = 12632.0
+
+
+cloud : Energy Consumed = 280148.59107142856
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31715.621309999984
+m-0-0 : Energy Consumed = 25034.418000000023
+m-0-1 : Energy Consumed = 25177.447000000022
+m-0-2 : Energy Consumed = 25257.86900000002
+m-0-3 : Energy Consumed = 24991.153000000024
+Cost of execution in cloud = 2765.800000000001
+Total network usage = 8538.666666666666
+
+
+cloud : Energy Consumed = 414415.8857142857
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31781.338319999988
+m-0-0 : Energy Consumed = 24917.348000000016
+m-0-1 : Energy Consumed = 25201.87900000002
+m-0-2 : Energy Consumed = 25275.17500000003
+m-0-3 : Energy Consumed = 25151.48800000002
+Cost of execution in cloud = 21004.799999999974
+Total network usage = 10578.666666666666
+
+cloud : Energy Consumed = 406445.35000000003
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 31916.234769999992
+m-0-0 : Energy Consumed = 25201.879000000023
+m-0-1 : Energy Consumed = 25130.61900000002
+m-0-2 : Energy Consumed = 25183.555000000026
+m-0-3 : Energy Consumed = 25060.886000000024
+Cost of execution in cloud = 9704.799999999997
+Total network usage = 9898.666666666666
+
+
+cloud : Energy Consumed = 337922.4928571428
+proxy-server : Energy Consumed = 0.0
+d-0 : Energy Consumed = 32015.272669999988
+m-0-0 : Energy Consumed = 25213.077000000023
+m-0-1 : Energy Consumed = 25130.61900000002
+m-0-2 : Energy Consumed = 24928.546000000024
+m-0-3 : Energy Consumed = 25074.629000000023
+Cost of execution in cloud = 5468.0
+Total network usage = 9218.666666666666
