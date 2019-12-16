@@ -287,7 +287,7 @@ public class FogDevice extends PowerDatacenter {
 	// ((rd.nextInt(4) == 0) && (limiar.get() < 50000) && ev.fuzzyScheduler < 0.2)
 	private void manageResources(SimEvent ev) {
 		Random rd = new Random();
-		if ((rd.nextInt(2) == 0) && ev.fuzzyScheduler < 0.3) {
+		if ((rd.nextInt(8) == 0) && ev.fuzzyScheduler < 0.4) {
 			updateEnergyConsumption();
 		}
 		send(getId(), Config.RESOURCE_MGMT_INTERVAL, FogEvents.RESOURCE_MGMT);
@@ -765,7 +765,7 @@ public class FogDevice extends PowerDatacenter {
 		// System.out.println(rd.nextInt(newEnergyConsumption));
 // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 //((rd.nextInt(4) == 0) && (limiar.get() < 50000) && ev.fuzzyScheduler < 0.2)
-		if ((rd.nextInt(2) == 0) && ev.fuzzyScheduler < 0.3) {// adicionar alguma outra
+		if ((rd.nextInt(8) == 0) && ev.fuzzyScheduler < 0.4) {// adicionar alguma outra
 			// ((rd.nextInt(4) == 0) && ev.fuzzyScheduler < 0.2)
 //TODO
 			// condição
@@ -778,7 +778,7 @@ public class FogDevice extends PowerDatacenter {
 		// comunicação é feita pra calcular o consumo)
 
 		processCloudletSubmit(ev, false);
-		if ((rd.nextInt(2) == 0) && ev.fuzzyScheduler < 0.3) {// definir heurística de
+		if ((rd.nextInt(8) == 0) && ev.fuzzyScheduler < 0.4) {// definir heurística de
 			// redução
 			limiar.incrementAndGet();
 			updateAllocatedMips(moduleName);
